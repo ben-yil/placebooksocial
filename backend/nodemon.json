@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "yilmazbedirhan35",
+    "DB_PASSWORD": "yHzDZCrs9Myk6hg",
+    "DB_NAME": "placebook",
+    "GOOGLE_API_KEY": "AIzaSyD7EzcHYOdY5c4KGLiNH4g0WpgJM-XK2aQ",
+    "JWT_KEY": "supersecret_dont_share "
+  }
+}
